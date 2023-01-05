@@ -1,6 +1,6 @@
-# %MODULE-NAME%
+Back-end Development
 
-This repository contains resources (including exemplars, instructions, and starter code) for the **%MODULE-NAME%** module.
+This repository contains resources (including exemplars, instructions, and starter code) for the **Back-end Development** module.
 
 ## Set-up
 
@@ -14,4 +14,4 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 
 | Resource | Branch |
 | --- | --- |
-| resource_name | `branch_name` |
+| Complete | `complete` |
